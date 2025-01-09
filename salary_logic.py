@@ -10,4 +10,4 @@ def salary_decision(salary,customer_type,color):
     else:
         decision = decision_approve
     
-    return decision
+    return decision 
