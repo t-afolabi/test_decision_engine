@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 {
     "age": 5,
     "salary": 200000,
     "color": "Black",
     "customer_type":"Self Employed",
     "gender":"Male"
+=======
+{
+    "age": 5,
+    "salary": 200000,
+    "color": "Black",
+    "customer_type":"Self Employed",
+    "gender":"Male"
+>>>>>>> 37acecf453e6c893182e304f3b3aebaaa9f01ac5
 }
